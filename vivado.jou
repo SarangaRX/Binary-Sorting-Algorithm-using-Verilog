@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Jan 19 09:30:59 2023
+# Process ID: 10680
+# Current directory: F:/My/Academics/Japura Aca Folder/6th Sem Slides/Digital System Design/Assignments Presentations Quiz/Mini Project/MiniDSD/DSD
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1712 F:\My\Academics\Japura Aca Folder\6th Sem Slides\Digital System Design\Assignments Presentations Quiz\Mini Project\MiniDSD\DSD\DSD.xpr
+# Log file: F:/My/Academics/Japura Aca Folder/6th Sem Slides/Digital System Design/Assignments Presentations Quiz/Mini Project/MiniDSD/DSD/vivado.log
+# Journal file: F:/My/Academics/Japura Aca Folder/6th Sem Slides/Digital System Design/Assignments Presentations Quiz/Mini Project/MiniDSD/DSD\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {F:/My/Academics/Japura Aca Folder/6th Sem Slides/Digital System Design/Assignments Presentations Quiz/Mini Project/MiniDSD/DSD/DSD.xpr}
+update_compile_order -fileset sources_1
